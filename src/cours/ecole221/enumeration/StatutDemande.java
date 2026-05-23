@@ -1,7 +1,7 @@
 package cours.ecole221.enumeration;
 
-enum StatutDemande {
-    NOUVEAU,
+public enum StatutDemande {
+      NOUVEAU,
     EN_ANALYSE,
     VALIDE,
     REJETE
